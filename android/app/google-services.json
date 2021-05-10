@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "744311029609",
+    "project_id": "projeto-push-notificatio-dd7df",
+    "storage_bucket": "projeto-push-notificatio-dd7df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744311029609:android:15815284bccee1e7a3c7f8",
+        "android_client_info": {
+          "package_name": "br.com.projetopush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744311029609-p3dubs7u3r7ll79fcquijokcln1q3rg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmCBI6RCqI9lQBr1Cp4bWKT602bagH4Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744311029609-p3dubs7u3r7ll79fcquijokcln1q3rg8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "744311029609-vs35aabqgmqdgk5l23i7pj8h8bcie314.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.projetopush"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
